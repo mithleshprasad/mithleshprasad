@@ -86,7 +86,5 @@ Baba Ji Matka is a mobile-only project designed for users to engage with a tradi
 
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=mithleshprasad&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 ---
