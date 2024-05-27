@@ -27,21 +27,16 @@ Proud React Developer hailing from Bihar, India. Crafting wonders at A2 TechnoSo
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 🌟 Projects
-
-### [Sportspad](https://www.sportspad.com/)
-![Sportspad](https://profoliomith.netlify.app/static/media/sportspad.b0bcb202efc20701463d.jpeg)
+### [Badshah Ludo](https://badshahludo.com/)
 
 ### [Milan Satta 3D](https://milansatta3d.com/Login)
 ![Milan Satta 3D](https://profoliomith.netlify.app/static/media/miansatta.4e43431012cca11243d8.jpeg)
 
+### [Sportspad](https://www.sportspad.com/)
+![Sportspad](https://profoliomith.netlify.app/static/media/sportspad.b0bcb202efc20701463d.jpeg)
+
 ### [Baba Ji Matka](https://github.com/mithleshprasad/baba_ji_matka)
 ![Baba Ji Matka](https://profoliomith.netlify.app/static/media/babajimatka.4556f39117d2ec884f74.jpeg)
-
-### [Proflio](https://moonlit-smakager-2d0d10.netlify.app/)
-![Moonlit Smakager](https://profoliomith.netlify.app/static/media/chatapp.fbc5a2d0bf5355af54c0.jpeg)
-
-### [Meetflex](https://meetflex.netlify.app/)
-![Meetflex](https://profoliomith.netlify.app/static/media/meetflex.53dd705f0728f8b09ab5.jpeg)
 
 ### [Baba Booki](https://bababooki.in/login)
 ![Baba Booki](https://profoliomith.netlify.app/static/media/bababooki.2fc77dc13c2e76ac8248.jpeg)
@@ -49,8 +44,11 @@ Proud React Developer hailing from Bihar, India. Crafting wonders at A2 TechnoSo
 ### [Baba Ji Clubs](https://babajiclubs.com/)
 ![Baba Ji Clubs](https://profoliomith.netlify.app/static/media/babajimatka.4556f39117d2ec884f74.jpeg)
 
-### [Badshah Ludo](https://badshahludo.com/)
+### [Chat App](https://moonlit-smakager-2d0d10.netlify.app/)
+![Moonlit Smakager](https://profoliomith.netlify.app/static/media/chatapp.fbc5a2d0bf5355af54c0.jpeg)
 
+### [Meetflex](https://meetflex.netlify.app/)
+![Meetflex](https://profoliomith.netlify.app/static/media/meetflex.53dd705f0728f8b09ab5.jpeg)
 ---
 
 [![](https://visitcount.itsvg.in/api?id=mithleshprasad&icon=0&color=0)](https://visitcount.itsvg.in)
