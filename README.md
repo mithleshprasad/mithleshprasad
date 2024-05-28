@@ -41,7 +41,6 @@ Proud React Developer hailing from Bihar, India. Crafting wonders at A2 TechnoSo
 ### [Meetflex](https://meetflex.netlify.app/)
 
 ---
-#ReactJS #JavaScript #NodeJS #MySQL #SCSS #SocketIO #WebDevelopment #FullStackDeveloper #Coding #Programming #Tech #Developer #Frontend #Backend #SoftwareEngineering #DevCommunity #TechStack
 
 [![](https://visitcount.itsvg.in/api?id=mithleshprasad&icon=0&color=0)](https://visitcount.itsvg.in)
 
