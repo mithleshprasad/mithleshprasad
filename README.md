@@ -26,43 +26,26 @@ Proud React Developer hailing from Bihar, India. Crafting wonders at A2 TechnoSo
 ## 🌟 Projects
 ### [Badshah Ludo](https://badshahludo.com/)
 
-![Badshah Ludo](https://profoliomith.netlify.app/static/media/badshahludo.jpg)
-
-Badshah Ludo is an online multiplayer Ludo game designed for users to enjoy the classic board game experience virtually. Developed using ReactJS for the frontend, Node.js with Express.js for the backend, and MySQL for database management, this project brings the joy of Ludo to the digital world. The integration of WebSockets enables real-time communication between players, ensuring a smooth and interactive gaming experience. With its responsive design and intuitive user interface, Badshah Ludo offers endless entertainment for players of all ages.
-
 ### [Milan Satta 3D](https://milansatta3d.com/Login)
 
-![Milan Satta 3D](https://profoliomith.netlify.app/static/media/miansatta.4e43431012cca11243d8.jpeg)
-
-Milan Satta 3D is a mobile-exclusive project showcased in my portfolio, developed using a variety of modern web technologies. This project caters specifically to mobile users, offering a seamless and optimized experience.
 
 ### [Sportspad](https://www.sportspad.com/)
 
-![Sportspad](https://profoliomith.netlify.app/static/media/sportspad.b0bcb202efc20701463d.jpeg)
-
-Sportspad is an interactive web application, developed using ReactJS, HTML, SCSS, and Bootstrap. Leveraging Postman for API integration, it seamlessly integrates a 3rd-party cricket live score API to provide real-time updates on matches. With a user-friendly interface and responsive design, Sportspad offers a dynamic platform for cricket enthusiasts to stay updated on live scores conveniently.
 
 ### [Baba Ji Matka](https://github.com/mithleshprasad/baba_ji_matka)
 
-![Baba Ji Matka](https://profoliomith.netlify.app/static/media/babajimatka.4556f39117d2ec884f74.jpeg)
-
-Baba Ji Matka is a mobile-only project designed for users to engage with a traditional Indian game of chance. Developed using ReactJS, SCSS, HTML, Bootstrap, Postman, API, and High Logic, it offers a seamless and visually appealing experience. The project was a collaborative effort with another team member, combining expertise in front-end development and back-end integration. Its responsive design ensures optimal performance across various mobile devices, enhancing user accessibility. With intuitive navigation and interactive features, Baba Ji Matka provides an engaging platform for players to enjoy the game while adhering to modern technological standards.
 
 ### [Baba Booki](https://bababooki.in/login)
 
-![Baba Booki](https://profoliomith.netlify.app/static/media/bababooki.2fc77dc13c2e76ac8248.jpeg)
 
 ### [Baba Ji Clubs](https://babajiclubs.com/)
 
-![Baba Ji Clubs](https://profoliomith.netlify.app/static/media/babajimatka.4556f39117d2ec884f74.jpeg)
 
 ### [Chat App](https://moonlit-smakager-2d0d10.netlify.app/)
 
-![Moonlit Smakager](https://profoliomith.netlify.app/static/media/chatapp.fbc5a2d0bf5355af54c0.jpeg)
 
 ### [Meetflex](https://meetflex.netlify.app/)
 
-![Meetflex](https://profoliomith.netlify.app/static/media/meetflex.53dd705f0728f8b09ab5.jpeg)
 ---
 
 [![](https://visitcount.itsvg.in/api?id=mithleshprasad&icon=0&color=0)](https://visitcount.itsvg.in)
