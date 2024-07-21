@@ -5,7 +5,7 @@
 
 **Mithlesh Prasad**
 
-Hello! I'm Mithlesh Prasad, a passionate React Developer from Bihar, India. With extensive experience at A2 TechnoSoft, I excel in React, Node.js, and a wide array of modern technologies. I'm dedicated to crafting high-quality software solutions and have a strong track record in competitive coding. Let's connect and create something amazing together! 💻🚀
+Hello! I'm Mithlesh Prasad, a passionate Full Stack Developer from Bihar, India. With extensive experience at A2 TechnoSoft, I excel in React, Node.js, and a wide array of modern technologies. I'm dedicated to crafting high-quality software solutions and have a strong track record in competitive coding. Let's connect and create something amazing together! 💻🚀
 
 ## 🌐 Socials
 
