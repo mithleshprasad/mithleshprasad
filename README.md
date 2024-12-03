@@ -44,22 +44,6 @@ Hello! I'm Mithlesh Prasad, a passionate Full Stack Developer from Bihar, India.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mithleshprasad&theme=dark&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mithleshprasad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=mithleshprasad&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-## 🔧 Additional Skills & Tools
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-
-## 📫 How to Reach Me
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mithlesh-prasad-5a68a41a3/) or check out my [GitHub](https://github.com/mithleshprasad) for more of my work.
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
