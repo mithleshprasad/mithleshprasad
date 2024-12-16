@@ -28,6 +28,14 @@ Hello! I'm Mithlesh Prasad, a passionate Full Stack Developer from Bihar, India.
 ---
 
 ## 🌟 Projects
+### [Wealth](https://wealth.swaninvestment.in/)
+> Financial platform offering wealth management solutions.
+
+### [Company](https://company.swaninvestment.in/)
+> Enterprise-focused platform for investment and management.
+
+### [Broker](https://broker.swaninvestment.in/)
+> Streamlined brokerage platform for efficient trading operations.
 
 ### [Badshah Ludo](https://badshahludo.com/)
 > A feature-rich multiplayer game with real-time gaming using Socket.io and optimized backend with Node.js.
@@ -39,28 +47,14 @@ Hello! I'm Mithlesh Prasad, a passionate Full Stack Developer from Bihar, India.
 > Comprehensive sports betting platform with seamless user experience.
 
 ### [Baba Ji Matka](https://github.com/mithleshprasad/baba_ji_matka)
-> Open-source project built with React and Node.js to manage gaming data.
 
 ### [Baba Booki](https://bababooki.in/login)
-> A platform offering fast and reliable user account management.
-
-### [Baba Ji Clubs](https://babajiclubs.com/)
-> Full-stack development for an engaging user interface and robust backend.
 
 ### [Chat App](https://moonlit-smakager-2d0d10.netlify.app/)
 > A real-time chat application built with React and Firebase.
 
 ### [Meetflex](https://meetflex.netlify.app/)
-> Responsive video conferencing platform designed with React.
-
-### [Wealth](https://wealth.swaninvestment.in/)
-> Financial platform offering wealth management solutions.
-
-### [Company](https://company.swaninvestment.in/)
-> Enterprise-focused platform for investment and management.
-
-### [Broker](https://broker.swaninvestment.in/)
-> Streamlined brokerage platform for efficient trading operations.
+> Responsive platform designed with React.
 
 ---
 
