@@ -53,6 +53,15 @@ Hello! I'm Mithlesh Prasad, a passionate Full Stack Developer from Bihar, India.
 ### [Meetflex](https://meetflex.netlify.app/)
 > Responsive video conferencing platform designed with React.
 
+### [Wealth](https://wealth.swaninvestment.in/)
+> Financial platform offering wealth management solutions.
+
+### [Company](https://company.swaninvestment.in/)
+> Enterprise-focused platform for investment and management.
+
+### [Broker](https://broker.swaninvestment.in/)
+> Streamlined brokerage platform for efficient trading operations.
+
 ---
 
 ## 📊 GitHub Stats
@@ -63,14 +72,6 @@ Hello! I'm Mithlesh Prasad, a passionate Full Stack Developer from Bihar, India.
 ---
 
 [![](https://visitcount.itsvg.in/api?id=mithleshprasad&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-# 🌐 Explore More
-
-- [Wealth](https://wealth.swaninvestment.in/)
-- [Company](https://company.swaninvestment.in/)
-- [Broker](https://broker.swaninvestment.in/)
 
 ---
 
