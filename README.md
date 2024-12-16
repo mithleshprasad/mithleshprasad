@@ -57,7 +57,7 @@ Hello! I'm Mithlesh Prasad, a passionate Full Stack Developer from Bihar, India.
 
 ### [Meetflex](https://meetflex.netlify.app/)
 > Responsive platform designed with React.
-### [Meetflex](https://mithleshassistant.netlify.app/)
+### [Mithlesh Assistant](https://mithleshassistant.netlify.app/)
 > I'm Mithlesh Assistant, your virtual assistant. How can I assist you today? Visit Mithlesh Assistant for more information and support.
 
 ---
