@@ -47,8 +47,10 @@ Hello! I'm Mithlesh Prasad, a passionate Full Stack Developer from Bihar, India.
 > Comprehensive sports betting platform with seamless user experience.
 
 ### [Baba Ji Matka](https://github.com/mithleshprasad/baba_ji_matka)
+>Download the React-based application for betting on local street matches, offering secure transactions, real-time updates, and a seamless user experience for confident betting.
 
 ### [Baba Booki](https://bababooki.in/login)
+>Place cricket bets confidently with a secure, hand-to-hand payment system. Enjoy real-time updates, user-friendly interface, seamless navigation, and dynamic features, ensuring a smooth and responsive betting experience in React.
 
 ### [Chat App](https://moonlit-smakager-2d0d10.netlify.app/)
 > A real-time chat application built with React and Firebase.
