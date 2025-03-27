@@ -31,6 +31,11 @@
 
 ## � Featured Projects
 
+### 🔧 Current Project
+**EndLess Operations Suite**  
+[Live Demo](https://endlesstest.a2logicgroup.com/) | Tech: Node.js, MySQL, React, Redux  
+- Built core systems for vendor/customer/product management    
+  
 ### Financial Platforms
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
@@ -61,7 +66,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithlesh-prasad-5a68a41a3/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/mithleshprasad)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?logo=google-chrome&logoColor=white)](https://mithleshprasad.github.io)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?logo=google-chrome&logoColor=white)](https://profoliomith.netlify.app/)
 
 ## 🎯 Visitor Count
 
