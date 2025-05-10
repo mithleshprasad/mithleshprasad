@@ -46,7 +46,7 @@
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
 | [Chat App](https://mithleshprasad.github.io/chat-app/) | Real-time messaging with Socket.io | Node, Express, Socket.io | [Live](https://mithleshprasad.github.io/chat-app/) |
-| [CricDekho](https://cricdekho.co.in/) | Sports betting platform with live updates | React, Firebase | [Live](https://cricdekho.co.in/) |
+
 
 ### Other Projects
 | Project | Description | Tech Stack | Live Demo |
