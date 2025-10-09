@@ -47,7 +47,7 @@
 - Responsible for feature development, system optimization, and backend performance tuning  
 - Reporting to **Mr. Vaibhav** and **Mr. Chetan** during induction and orientation  
 
-### 🏢 A2Technosoft Pvt. Ltd. (Apr 2024 – Aug 2025)
+### 🏢 A2Technosoft Pvt. Ltd. (July 2023 – Aug 2025)
 **Role:** Full Stack Developer  
 - Developed and maintained admin dashboards and APIs for financial and gaming platforms  
 - Enhanced payment performance by 20% and reduced transaction failures by 30%  
