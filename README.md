@@ -4,7 +4,7 @@
 
 📍 Based in Bihar, India  
 💻 Passionate about building scalable, real-world web applications  
-🚀 2+ years of professional development experience  
+🚀 3+ years of professional development experience  
 🏢 Currently working at **Murphy Lightings** as a **Full Stack Developer** (IT Department)  
 🌱 Exploring **Advanced System Design** and **High-Performance Architecture**
 
