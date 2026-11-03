@@ -1,151 +1,116 @@
-# 👋 Hi, I'm Mithlesh Prasad
+<div align="center">
+  <h1>👋 Hey, I'm Mithlesh Prasad</h1>
+  <h3>💻 Software Engineer | 🚀 Founder @ MpxHR | 🏗️ ERP & SaaS Developer</h3>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Enterprise+ERP+Specialist;Founder+%40+MpxHR;Building+Scalable+Business+Solutions;React+%7C+Node.js+%7C+MySQL+%7C+DevOps" alt="Typing SVG" />
+</div>
 
-### Software Engineer | Full-Stack ERP Specialist | Founder @ MpxHR
+<br/>
 
-I’m a Software Engineer specializing in Full-Stack Development, Enterprise ERP Systems, and Business Automation.
-
-Currently working at **Murphy Lightings** while building **MpxHR**, an offline-first HRMS solution designed to simplify employee management, attendance, payroll, and HR operations for Indian small businesses and MSMEs.
-
-- 💼 Software Engineer at Murphy Lightings
-- 🚀 Founder & Product Creator at MpxHR
-- 💻 3+ years of experience in Software Development
-- 🏗️ Building scalable ERP and business automation solutions
-- 🌱 Currently exploring DevOps, Cloud Infrastructure, and System Design
-- 🎯 Passionate about solving real-world business problems through technology
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mithlesh%20Prasad-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mithlesh-prasad-5a68a41a3/)
-[![Website](https://img.shields.io/badge/Website-MpxHR-orange?style=for-the-badge&logo=google-chrome)](https://www.mpxhr.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-mithleshprasad-black?style=for-the-badge&logo=github)](https://github.com/mithleshprasad)
-
----
-
-## 🛠️ Technical Skills
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socket.io&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<div align="center">
+  <h3>🌐 Connect With Me</h3>
+  <a href="https://www.linkedin.com/in/mithlesh-prasad-5a68a41a3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-00C6FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.mpxhr.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MpxHR-7B2FF7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="MpxHR" />
+  </a>
+  <a href="https://github.com/mithleshprasad" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
 ---
 
-## 💼 Professional Experience
+### ⚡ About Me
 
-### Software Engineer | Murphy Lightings
-**September 2025 – Present**
-
-- Architecting and developing enterprise ERP modules for Purchase, Sales, Inventory, Production, HRMS, Accounts, Pricing, and RNOD workflows.
-- Developing scalable backend services using Node.js, Express.js, MySQL, and Sequelize.
-- Optimizing database performance using indexing, query optimization, and Redis caching.
-- Integrating Tally Prime and developing automated business reports using AI APIs.
-- Implementing real-time notifications and business workflow automation.
-
-### Full-Stack Developer | A2 Technosoft
-**July 2023 – September 2025**
-
-- Developed scalable web applications using React.js, Node.js, Express.js, and MongoDB.
-- Built admin dashboards for financial transactions, user management, and payment processing.
-- Integrated RESTful APIs and optimized frontend performance.
-- Implemented authentication and authorization using JWT.
-- Worked on real-time applications and responsive user interfaces.
-
----
-
-## 🚀 Featured Projects
-
-### 1. MpxHR Enterprise
-**Offline-First HRMS Software**
-
-An HRMS solution designed for Indian small businesses and MSMEs.
-
-**Features:**
-- Employee Management
-- Attendance & Leave Management
-- Payroll & Payslip Generation
-- Reports & Analytics
-- Role-Based Access Control
-- Backup & Restore
-- Fully Offline Desktop Application
-
-**Tech Stack:** React.js, Electron, SQLite, JavaScript
-
-🌐 Website: [https://www.mpxhr.com](https://www.mpxhr.com)
-
-### 2. Murphy ERP
-**Enterprise Resource Planning System**
-
-Developing a comprehensive ERP platform for business operations and workflow automation.
-
-**Modules:** Purchase, Sales, Inventory, Production, HRMS, Accounts, Pricing, and RNOD.
-
-**Tech Stack:** React.js, Node.js, Express.js, MySQL, Sequelize, Redis, Socket.IO
-
-### 3. Swan Investment
-**Financial Admin Dashboard**
-
-Developed a comprehensive financial dashboard for managing transactions, user accounts, and payment processing.
-
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, REST APIs, JWT
-
-### 4. Sportspad
-**Real-Time Cricket Application**
-
-Developed responsive interfaces and integrated APIs for real-time cricket match updates.
-
-**Tech Stack:** React.js, JavaScript, HTML5, SCSS, Bootstrap, REST APIs
+```javascript
+const mithlesh = {
+  role: "Software Engineer",
+  company: "Murphy Lightings",
+  founder: "MpxHR",
+  specialization: [
+    "Enterprise ERP",
+    "Full Stack Development",
+    "Business Automation",
+    "SaaS Product Development"
+  ],
+  technologies: {
+    frontend: ["React", "Redux", "JavaScript", "TypeScript"],
+    backend: ["Node.js", "Express", "Socket.IO"],
+    database: ["MySQL", "MongoDB", "SQLite", "Redis"],
+    devops: ["Git", "Docker", "AWS", "Nginx"]
+  },
+  currentFocus: "Building scalable ERP & SaaS solutions"
+};
+```
 
 ---
 
-## 📊 GitHub Statistics
+<h2 align="center">🚀 Featured Projects</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mithleshprasad&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
+  <a href="https://www.mpxhr.com/" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80_MpxHR-Enterprise_HRMS-7B2FF7?style=for-the-badge" alt="MpxHR Enterprise"/>
+  </a>
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mithleshprasad&theme=tokyonight&hide_border=true)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mithleshprasad&layout=compact&theme=tokyonight&hide_border=true)
+### 🔹 MpxHR Enterprise — Offline-First HRMS for Indian MSMEs
+- 👥 **Employee Management & Compliance**
+- 📍 **Biometric Attendance & Leave Management**
+- 💰 **1-Click Payroll & Automated Payslip Generation**
+- 📊 **Custom Reports & Business Analytics**
+- 🔒 **High Security Offline-First Desktop Application**
+- 🌐 **Website:** [https://www.mpxhr.com](https://www.mpxhr.com)
+
+### 🔹 Murphy ERP — Enterprise Business Automation Platform
+- ⚙️ **End-to-End Enterprise Architecture:** Purchase | Sales | Inventory | Production | HRMS | Accounts
+- 🔄 **Integrations:** Tally Prime Synchronization & AI-driven business analytics
 
 ---
 
-## 🎯 Current Goals
+<h2 align="center">🛠️ Tech Stack</h2>
 
-- Building scalable SaaS products for Indian businesses
-- Improving System Design and Backend Architecture
-- Mastering DevOps and Cloud Deployment
-- Exploring AI-powered business automation
-- Building products that solve real-world problems
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,bootstrap,nodejs,express,mysql,mongodb,sqlite,redis,docker,aws,git,github,nginx,postman&perline=7" alt="Tech Stack" />
+</div>
 
 ---
 
-## 💡 My Philosophy
+<h2 align="center">📊 GitHub Analytics</h2>
 
-> Build practical software. Solve real problems. Create meaningful impact.
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mithleshprasad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7B2FF7" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithleshprasad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" alt="Top Languages" />
+</div>
 
-⭐ Thanks for visiting my GitHub profile!
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mithleshprasad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<h2 align="center">🌌 3D Contribution Graph</h2>
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
+</div>
+
+---
+
+<h2 align="center">🐍 Contribution Animation</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mithleshprasad/mithleshprasad/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+</div>
+
+<br/>
+
+<div align="center">
+  <p>💡 <b>Building the Future Through Code</b><br/><i>Build. Innovate. Automate.</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FF7,100:0D1117&height=120&section=footer" alt="Footer Wave" />
+</div>
