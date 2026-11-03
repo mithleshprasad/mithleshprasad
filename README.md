@@ -1,127 +1,151 @@
-import pypandoc
-
-readme = r'''<div align="center">
-
 # 👋 Hi, I'm Mithlesh Prasad
 
-### Software Engineer | ERP & Business Automation | Founder @ MpxHR
+### Software Engineer | Full-Stack ERP Specialist | Founder @ MpxHR
 
-Building practical software that helps businesses work smarter.
+I’m a Software Engineer specializing in Full-Stack Development, Enterprise ERP Systems, and Business Automation.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithlesh-prasad-5a68a41a3/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://profoliomith.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mithleshprasad)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithleshprasad58@gmail.com)
+Currently working at **Murphy Lightings** while building **MpxHR**, an offline-first HRMS solution designed to simplify employee management, attendance, payroll, and HR operations for Indian small businesses and MSMEs.
 
-</div>
+- 💼 Software Engineer at Murphy Lightings
+- 🚀 Founder & Product Creator at MpxHR
+- 💻 3+ years of experience in Software Development
+- 🏗️ Building scalable ERP and business automation solutions
+- 🌱 Currently exploring DevOps, Cloud Infrastructure, and System Design
+- 🎯 Passionate about solving real-world business problems through technology
 
 ---
 
-## 🚀 About Me
+## 🌐 Connect With Me
 
-I'm a Software Engineer with **3+ years of experience** developing full-stack applications, enterprise ERP platforms, and business automation solutions.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mithlesh%20Prasad-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mithlesh-prasad-5a68a41a3/)
+[![Website](https://img.shields.io/badge/Website-MpxHR-orange?style=for-the-badge&logo=google-chrome)](https://www.mpxhr.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-mithleshprasad-black?style=for-the-badge&logo=github)](https://github.com/mithleshprasad)
 
-- 🏢 **Software Engineer at Murphy Lighting, Jaipur** — working on ERP systems and business-critical workflows.
-- 🚀 **Founder & Product Creator of MpxHR** — building an offline-capable HRMS for Indian small businesses and MSMEs.
-- 🧩 Experienced in full-stack development, ERP modules, API design, database optimization, and integrations.
-- 🔗 Worked with Tally Prime integration, real-time communication, and AI-powered analytics.
-- 🌱 Continuously learning and improving across software architecture, cloud, and DevOps.
-
-> My focus: solving real business problems through reliable, maintainable, and practical software.
+---
 
 ## 🛠️ Technical Skills
 
-| Area | Technologies |
-|---|---|
-| Languages | JavaScript (ES6+), TypeScript, SQL, Python, C++, HTML5, CSS3 |
-| Frontend | React.js, Redux Toolkit, Bootstrap, Tailwind CSS |
-| Backend & APIs | Node.js, Express.js, REST APIs, Socket.IO, WebRTC |
-| Databases & Caching | MySQL, MongoDB, Redis, SQLite, Firebase |
-| ERP & Integrations | Tally Prime, Antraweb XML API, Excel/CSV processing |
-| Architecture & Security | Microservices, System Design, JWT, RBAC, API Design |
-| DevOps & Tools | Docker, AWS, GitHub Actions, Git, Postman, Jest, Mocha, Webpack |
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 💼 Experience
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socket.io&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge)
 
-### Software Engineer | Murphy Lighting — Jaipur
-**Sep 2025 – Present**
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-- Building an ERP platform across Purchase, Sales, HRMS, Accounts, Production, RNOD, Pricing, Inventory, and vendor workflows.
-- Developing accounting and business workflows with Tally Prime integration through Antraweb XML API.
-- Creating Excel/CSV bulk-import processes to reduce manual data-entry effort.
-- Optimizing MySQL queries and implementing Redis caching for improved API performance.
-- Developing AI-assisted reports and recommendations using the Grok API.
-- Implementing real-time notifications and order/stock tracking.
-- Working on CI/CD, automated testing, and production deployment workflows.
-
-### Founder & Product Creator | MpxHR
-**Product Development — Present**
-
-- Building **MpxHR Enterprise**, an offline-capable HRMS designed for Indian small businesses and MSMEs.
-- Developing desktop HR software for employee management, attendance, leave, payroll, and payslip generation.
-- Managing product development, website, branding, and customer outreach.
-- Product website: [https://www.mpxhr.com](https://www.mpxhr.com)
-
-### Software Engineer | A2 TechnoSoft — Jaipur
-**Jul 2023 – Sep 2025**
-
-- Developed full-stack applications for finance, gaming, and sports domains using React.js and Node.js.
-- Built dashboards for transaction management, user administration, payment processing, and analytics.
-- Implemented JWT authentication and role-based access control (RBAC).
-- Developed real-time communication features using WebRTC and Socket.IO.
-- Optimized frontend bundles and MongoDB queries for better application performance.
-- Collaborated with teams using Agile/Scrum practices.
-
-## 💡 Featured Projects
-
-| Project | Description | Tech Stack | Link |
-|---|---|---|---|
-| **MpxHR Enterprise** | Offline-capable HRMS for employee management, attendance, leave, payroll, and payslips | Electron, React, SQLite | [Website](https://www.mpxhr.com) |
-| **Murphy Lighting ERP** | Enterprise ERP workflows across purchasing, sales, HRMS, accounts, production, and inventory | React, Node.js, MySQL, Redis | [GitHub](https://github.com/mithleshprasad) |
-| **Swan Investment Dashboard** | Investment dashboard with transaction management, authentication, payment integration, and analytics | React, Redux, Node.js, MongoDB, Socket.IO | [Live Demo](https://wealth.swaninvestment.in/) |
-| **EndLess Operations Suite** | Vendor, product, inventory, and order lifecycle management | React, Redux, Node.js, MySQL | [Live Demo](https://endlesstest.a2logicgroup.com/) |
-| **Real-Time Communication App** | Audio/video communication and messaging with room management | Node.js, Express, Socket.IO, WebRTC | [Live Demo](https://mithleshprasad.github.io/chat-app/) |
-| **Learn-Coding Portal** | Interactive coding portal with algorithm challenges and visualizations | HTML, CSS, JavaScript | [Live Demo](https://mithleshprasad.github.io/Learn-Coding/) |
-| **Mithlesh Assistant** | AI-powered virtual assistant with a responsive web interface | React, Node.js, REST APIs | [Live Demo](https://mithleshassistant.netlify.app/) |
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=mithleshprasad&show_icons=true&theme=radical&hide_border=true&title_color=00d2ff&text_color=ffffff&icon_color=00d2ff&bg_color=0d1117" alt="Mithlesh's GitHub Stats" />
-
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=mithleshprasad&layout=compact&theme=radical&hide_border=true&title_color=00d2ff&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=mithleshprasad&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🤝 Let's Connect
+## 💼 Professional Experience
 
-I'm open to connecting with software engineers, founders, business owners, and people interested in ERP, HRMS, and business automation.
+### Software Engineer | Murphy Lightings
+**September 2025 – Present**
 
-<div align="center">
+- Architecting and developing enterprise ERP modules for Purchase, Sales, Inventory, Production, HRMS, Accounts, Pricing, and RNOD workflows.
+- Developing scalable backend services using Node.js, Express.js, MySQL, and Sequelize.
+- Optimizing database performance using indexing, query optimization, and Redis caching.
+- Integrating Tally Prime and developing automated business reports using AI APIs.
+- Implementing real-time notifications and business workflow automation.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mithlesh%20Prasad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithlesh-prasad-5a68a41a3/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://profoliomith.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-mithleshprasad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mithleshprasad)
-[![Email](https://img.shields.io/badge/Email-mithleshprasad58%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithleshprasad58@gmail.com)
+### Full-Stack Developer | A2 Technosoft
+**July 2023 – September 2025**
 
-![Visitor Count](https://komarev.com/ghpvc/?username=mithleshprasad&color=blueviolet&style=flat-square&label=Profile+Views)
+- Developed scalable web applications using React.js, Node.js, Express.js, and MongoDB.
+- Built admin dashboards for financial transactions, user management, and payment processing.
+- Integrated RESTful APIs and optimized frontend performance.
+- Implemented authentication and authorization using JWT.
+- Worked on real-time applications and responsive user interfaces.
 
-</div>
+---
 
-<div align="center">
+## 🚀 Featured Projects
 
-⚡ *“I love debugging more than coding — because that's when the real thrill begins.”*
+### 1. MpxHR Enterprise
+**Offline-First HRMS Software**
 
-</div>
-'''
+An HRMS solution designed for Indian small businesses and MSMEs.
 
-output_path = "/mnt/data/README_Mithlesh_Updated.md"
-pypandoc.convert_text(readme, "md", format="md", outputfile=output_path, extra_args=["--standalone"])
-print(f"Created: {output_path}")
+**Features:**
+- Employee Management
+- Attendance & Leave Management
+- Payroll & Payslip Generation
+- Reports & Analytics
+- Role-Based Access Control
+- Backup & Restore
+- Fully Offline Desktop Application
+
+**Tech Stack:** React.js, Electron, SQLite, JavaScript
+
+🌐 Website: [https://www.mpxhr.com](https://www.mpxhr.com)
+
+### 2. Murphy ERP
+**Enterprise Resource Planning System**
+
+Developing a comprehensive ERP platform for business operations and workflow automation.
+
+**Modules:** Purchase, Sales, Inventory, Production, HRMS, Accounts, Pricing, and RNOD.
+
+**Tech Stack:** React.js, Node.js, Express.js, MySQL, Sequelize, Redis, Socket.IO
+
+### 3. Swan Investment
+**Financial Admin Dashboard**
+
+Developed a comprehensive financial dashboard for managing transactions, user accounts, and payment processing.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, REST APIs, JWT
+
+### 4. Sportspad
+**Real-Time Cricket Application**
+
+Developed responsive interfaces and integrated APIs for real-time cricket match updates.
+
+**Tech Stack:** React.js, JavaScript, HTML5, SCSS, Bootstrap, REST APIs
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mithleshprasad&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mithleshprasad&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mithleshprasad&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🎯 Current Goals
+
+- Building scalable SaaS products for Indian businesses
+- Improving System Design and Backend Architecture
+- Mastering DevOps and Cloud Deployment
+- Exploring AI-powered business automation
+- Building products that solve real-world problems
+
+---
+
+## 💡 My Philosophy
+
+> Build practical software. Solve real problems. Create meaningful impact.
+
+⭐ Thanks for visiting my GitHub profile!
