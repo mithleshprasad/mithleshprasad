@@ -10,7 +10,7 @@
 <div align="center">
   <h3>🌐 Connect With Me</h3>
   <a href="https://www.linkedin.com/in/mithlesh-prasad-5a68a41a3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00C6FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.mpxhr.com/" target="_blank">
     <img src="https://img.shields.io/badge/MpxHR-7B2FF7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="MpxHR" />
