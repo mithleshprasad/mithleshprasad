@@ -82,8 +82,8 @@ const mithlesh = {
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mithleshprasad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7B2FF7" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithleshprasad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=mithleshprasad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7B2FF7" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=mithleshprasad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" alt="Top Languages" />
 </div>
 
 <br/>
