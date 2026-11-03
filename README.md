@@ -71,6 +71,17 @@ const mithlesh = {
 
 ---
 
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" style="vertical-align: middle;" /> Key Achievements</h2>
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="18" style="vertical-align: middle;" /> **15+ Enterprise Modules Deployed:** Architected and shipped 15+ business-critical ERP modules across finance, production, sales, and operations.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="18" style="vertical-align: middle;" /> **75% API Latency Reduction:** Accelerated enterprise backend API response times via Redis caching and MySQL query tuning.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="18" style="vertical-align: middle;" /> **70% Manual Work Reduction:** Automated bulk invoice and ledger imports with custom Excel/CSV parsers.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="18" style="vertical-align: middle;" /> **40% Faster Deployments:** Implemented automated GitHub Actions CI/CD to AWS with 80%+ Jest test coverage.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" width="18" style="vertical-align: middle;" /> **3-Star Coder** on CodeChef.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="18" style="vertical-align: middle;" /> **120+ Public Repositories** on GitHub.
+
+---
+
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" style="vertical-align: middle;" /> Tech Stack</h2>
 
 <div align="center">
