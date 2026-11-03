@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>👋 Hey, I'm Mithlesh Prasad</h1>
-  <h3>💻 Software Engineer | 🚀 Founder @ MpxHR | 🏗️ ERP & SaaS Developer</h3>
+  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="34" style="vertical-align: middle;" /> Hey, I'm Mithlesh Prasad</h1>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="22" style="vertical-align: middle;" /> Software Engineer &nbsp;|&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="22" style="vertical-align: middle;" /> Founder @ MpxHR &nbsp;|&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="22" style="vertical-align: middle;" /> ERP & SaaS Developer</h3>
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Enterprise+ERP+Specialist;Founder+%40+MpxHR;Building+Scalable+Business+Solutions;React+%7C+Node.js+%7C+MySQL+%7C+DevOps" alt="Typing SVG" />
 </div>
@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-  <h3>🌐 Connect With Me</h3>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe" width="24" style="vertical-align: middle;" /> Connect With Me</h3>
   <a href="https://www.linkedin.com/in/mithlesh-prasad-5a68a41a3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -22,7 +22,7 @@
 
 ---
 
-### ⚡ About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning" width="24" style="vertical-align: middle;" /> About Me
 
 ```javascript
 const mithlesh = {
@@ -47,7 +47,7 @@ const mithlesh = {
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" style="vertical-align: middle;" /> Featured Projects</h2>
 
 <div align="center">
   <a href="https://www.mpxhr.com/" target="_blank">
@@ -58,20 +58,20 @@ const mithlesh = {
 <br/>
 
 ### 🔹 MpxHR Enterprise — Offline-First HRMS for Indian MSMEs
-- 👥 **Employee Management & Compliance**
-- 📍 **Biometric Attendance & Leave Management**
-- 💰 **1-Click Payroll & Automated Payslip Generation**
-- 📊 **Custom Reports & Business Analytics**
-- 🔒 **High Security Offline-First Desktop Application**
-- 🌐 **Website:** [https://www.mpxhr.com](https://www.mpxhr.com)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Busts%20in%20Silhouette.png" width="18" style="vertical-align: middle;" /> **Employee Management & Compliance**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" width="18" style="vertical-align: middle;" /> **Biometric Attendance & Leave Management**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" width="18" style="vertical-align: middle;" /> **1-Click Payroll & Automated Payslip Generation**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="18" style="vertical-align: middle;" /> **Custom Reports & Business Analytics**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="18" style="vertical-align: middle;" /> **High Security Offline-First Desktop Application**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="18" style="vertical-align: middle;" /> **Website:** [https://www.mpxhr.com](https://www.mpxhr.com)
 
 ### 🔹 Murphy ERP — Enterprise Business Automation Platform
-- ⚙️ **End-to-End Enterprise Architecture:** Purchase | Sales | Inventory | Production | HRMS | Accounts
-- 🔄 **Integrations:** Tally Prime Synchronization & AI-driven business analytics
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="18" style="vertical-align: middle;" /> **End-to-End Enterprise Architecture:** Purchase | Sales | Inventory | Production | HRMS | Accounts
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="18" style="vertical-align: middle;" /> **Integrations:** Tally Prime Synchronization & AI-driven business analytics
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" style="vertical-align: middle;" /> Tech Stack</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,bootstrap,nodejs,express,mysql,mongodb,sqlite,redis,docker,aws,git,github,nginx,postman&perline=7" alt="Tech Stack" />
@@ -79,7 +79,7 @@ const mithlesh = {
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" style="vertical-align: middle;" /> GitHub Analytics</h2>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=mithleshprasad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7B2FF7" alt="GitHub Stats" />
@@ -94,7 +94,7 @@ const mithlesh = {
 
 ---
 
-<h2 align="center">🌌 3D Contribution Graph</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="30" style="vertical-align: middle;" /> 3D Contribution Graph</h2>
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
@@ -102,7 +102,7 @@ const mithlesh = {
 
 ---
 
-<h2 align="center">🐍 Contribution Animation</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30" style="vertical-align: middle;" /> Contribution Animation</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mithleshprasad/mithleshprasad/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
